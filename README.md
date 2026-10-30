@@ -2,6 +2,10 @@
 
 Reinforcement learning environment for the Drakarys_GAME_0 smart contract.
 
+The project is live at: https://xfokus.ai/projects/drakarys
+
+![Drakarys Promo](./drakarys-game-0-overview.png)
+
 ## Setup
 
 1. Install dependencies:
