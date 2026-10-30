@@ -8,4 +8,4 @@ test-ledger
 __pycache__
 *.pyc
 *.pt
-*.json
+dqn_*.json
